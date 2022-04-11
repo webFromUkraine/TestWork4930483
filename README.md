@@ -8,7 +8,7 @@ PHP 7.4 <br>
 Laravel Framework 8.83.7
 
 ## Installation
-Download repository
+Download repository and unzip the archive <br>
 Switch to the repo folder
 
     cd test-api
