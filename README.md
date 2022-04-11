@@ -8,9 +8,10 @@ PHP 7.4 <br>
 Laravel Framework 8.83.7
 
 ## Installation
+Download repository
 Switch to the repo folder
 
-    cd laravel-realworld-example-app
+    cd test-api
 Generate a new application key
 
     php artisan key:generate
