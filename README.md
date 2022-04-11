@@ -31,6 +31,8 @@ Start the local development server
 
 You can now access the server at http://localhost:8000
 
+#Access to API provided by API key (in **.env** file)
+
 # Commands
 - `GET` /customers - **Get the list of customers**
 - `GET` /customers/{id} - **Get the customer by ID**
